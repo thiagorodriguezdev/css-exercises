@@ -1,9 +1,13 @@
 .bg {
   background-color: rgb(255, 185, 197);
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .big {
+  font-size: 36px;
+}
+
+.md {
   font-size: 24px;
 }
 
@@ -14,6 +18,5 @@
 
 #green {
   background-color: rgb(55, 190, 55);
-  font-size: 24px;
   font-weight: 900;
 }
